@@ -51,7 +51,7 @@ export function fixHTML(this: EPub, index: number, html: string, imgCB: CB) {
 
   // record images and change where they point
   selectAll<Node, Element>(allImages, document).forEach(element => {
-    element.attribs.alt ||= "image-placeholder";
+    element.attribs.alt ||= "";
 
     if (!element.attribs.src) removeElement(element);
     else element.attribs.src = imgCB.call(this, element.attribs.src);
