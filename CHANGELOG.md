@@ -2,6 +2,8 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.19](https://github.com/cpiber/epub-gen-memory/compare/v1.0.18...v1.0.19) (2025-06-09)
+
 ### [1.0.18](https://github.com/cpiber/epub-gen-memory/compare/v1.0.17...v1.0.18) (2024-05-08)
 
 ### [1.0.17](https://github.com/cpiber/epub-gen-memory/compare/v1.0.16...v1.0.17) (2023-10-02)
